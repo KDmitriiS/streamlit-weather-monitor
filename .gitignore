@@ -1,0 +1,11 @@
+# Виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit-кеш
+.streamlit/
+
+# Лог-файлы
+logs/
